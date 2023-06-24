@@ -1,6 +1,6 @@
 {
   "name": "notes-app-back-end",
-  "version": "0.1.28",
+  "version": "0.1.32",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^8.36.0",
+    "eslint": "^8.43.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.27.5",
     "nodemon": "^2.0.21"
