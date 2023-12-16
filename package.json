@@ -1,6 +1,6 @@
 {
   "name": "notes-app-back-end",
-  "version": "0.1.41",
+  "version": "0.1.44",
   "description": "",
   "main": "index.js",
   "scripts": {
