@@ -19,6 +19,6 @@
   },
   "dependencies": {
     "@hapi/hapi": "^21.3.3",
-    "nanoid": "5.0.4"
+    "nanoid": "5.0.5"
   }
 }
